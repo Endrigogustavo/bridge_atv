@@ -2,6 +2,8 @@
 
 ![Java](https://img.shields.io/badge/Java-21-0f766e) ![Dependências](https://img.shields.io/badge/depend%C3%AAncias%20externas-0-0f766e) ![Padrão](https://img.shields.io/badge/GoF-Bridge-1d2230) ![SOLID](https://img.shields.io/badge/SOLID-OCP%20%C2%B7%20DIP%20%C2%B7%20SRP-1d2230)
 
+> **Vídeo da defesa técnica (3–5 min):** [assistir aqui] https://canva.link/8rp3n8yfuav9bkl
+
 
 Expansão do módulo de relatórios do sistema de inteligência de negócios **TechFatec**. O legado gerava apenas o *Relatório de Vendas* em *PDF*; o novo requisito inclui o *Relatório de Desempenho de RH* e exige que **todo relatório, atual ou futuro, seja exportável para PDF, Excel (XLSX) e HTML**. A solução aplica o padrão estrutural **Bridge (GoF)** para evitar a explosão de subclasses e respeitar o **Princípio Aberto/Fechado**.
 
