@@ -1,0 +1,10 @@
+# build e saídas geradas
+out/
+saida/
+*.class
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.DS_Store
